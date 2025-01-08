@@ -2,108 +2,108 @@
 <rss version="2.0">
     <channel>
         <title>SuiYan 碎言</title>
-        <link>https://suiyan.cc/</link>
+        <link>https://github.com/hello-schurmi/staticPage/</link>
         <description>SuiYan 碎言 最近更新的10篇博文。</description>
-        <pubDate>2025-01-08T15:26:15.436772Z</pubDate>
+        <pubDate>2025-01-08T15:55:17.365685Z</pubDate>
         
         <item>
             <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/30620872.html</link>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/44827794.html</link>
             <author>J.sky</author>
             <description>博文的简介</description>
-            <category>Python</category>
-            <guid>https://suiyan.cc/suiyantest/30620872.html</guid>
-            <pubDate>2025-01-08T15:26:15.436772Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/87338757.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>Python</category>
-            <guid>https://suiyan.cc/suiyantest/87338757.html</guid>
-            <pubDate>2025-01-08T15:26:15.436515Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/1743022.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>C++</category>
-            <guid>https://suiyan.cc/suiyantest/1743022.html</guid>
-            <pubDate>2025-01-08T15:26:15.436264Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/51394442.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>JavaScript</category>
-            <guid>https://suiyan.cc/suiyantest/51394442.html</guid>
-            <pubDate>2025-01-08T15:26:15.436003Z</pubDate>
+            <category>Java</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/44827794.html</guid>
+            <pubDate>2025-01-08T15:55:17.365685Z</pubDate>
         </item>
         
         <item>
             <title>斯蒂芬斯蒂芬阿斯蒂芬3</title>
-            <link>https://suiyan.cc/suiyantest/82559583.html</link>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/63201477.html</link>
             <author>J.sky</author>
             <description>博文的简介</description>
-            <category>Python</category>
-            <guid>https://suiyan.cc/suiyantest/82559583.html</guid>
-            <pubDate>2025-01-08T15:26:15.435740Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/99440064.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>Python</category>
-            <guid>https://suiyan.cc/suiyantest/99440064.html</guid>
-            <pubDate>2025-01-08T15:26:15.435455Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/29692346.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>C++</category>
-            <guid>https://suiyan.cc/suiyantest/29692346.html</guid>
-            <pubDate>2025-01-08T15:26:15.435169Z</pubDate>
-        </item>
-        
-        <item>
-            <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/43391564.html</link>
-            <author>J.sky</author>
-            <description>博文的简介</description>
-            <category>Java</category>
-            <guid>https://suiyan.cc/suiyantest/43391564.html</guid>
-            <pubDate>2025-01-08T15:26:15.434882Z</pubDate>
+            <category>程序员</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/63201477.html</guid>
+            <pubDate>2025-01-08T15:55:17.365346Z</pubDate>
         </item>
         
         <item>
             <title>打法撒发射点发斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/2106474.html</link>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/80611356.html</link>
             <author>J.sky</author>
             <description>博文的简介</description>
             <category>C++</category>
-            <guid>https://suiyan.cc/suiyantest/2106474.html</guid>
-            <pubDate>2025-01-08T15:26:15.434589Z</pubDate>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/80611356.html</guid>
+            <pubDate>2025-01-08T15:55:17.364987Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬斯蒂芬阿斯蒂芬3</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/50605654.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>Python</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/50605654.html</guid>
+            <pubDate>2025-01-08T15:55:17.364646Z</pubDate>
         </item>
         
         <item>
             <title>斯蒂芬阿斯蒂芬</title>
-            <link>https://suiyan.cc/suiyantest/4675396.html</link>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/84833125.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>C++</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/84833125.html</guid>
+            <pubDate>2025-01-08T15:55:17.364286Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬斯蒂芬阿斯蒂芬3</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/35387348.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>Python</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/35387348.html</guid>
+            <pubDate>2025-01-08T15:55:17.363926Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬阿斯蒂芬</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/21721718.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>C++</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/21721718.html</guid>
+            <pubDate>2025-01-08T15:55:17.363562Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬阿斯蒂芬斯蒂芬</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/63189291.html</link>
             <author>J.sky</author>
             <description>博文的简介</description>
             <category>JavaScript</category>
-            <guid>https://suiyan.cc/suiyantest/4675396.html</guid>
-            <pubDate>2025-01-08T15:26:15.434317Z</pubDate>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/63189291.html</guid>
+            <pubDate>2025-01-08T15:55:17.363149Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬阿斯蒂芬</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/14234950.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>JavaScript</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/14234950.html</guid>
+            <pubDate>2025-01-08T15:55:17.362687Z</pubDate>
+        </item>
+        
+        <item>
+            <title>斯蒂芬阿斯蒂芬</title>
+            <link>https://github.com/hello-schurmi/staticPage/suiyantest/94565979.html</link>
+            <author>J.sky</author>
+            <description>博文的简介</description>
+            <category>Java</category>
+            <guid>https://github.com/hello-schurmi/staticPage/suiyantest/94565979.html</guid>
+            <pubDate>2025-01-08T15:55:17.362113Z</pubDate>
         </item>
         
     </channel>
